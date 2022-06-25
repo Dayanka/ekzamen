@@ -16,9 +16,3 @@
 ### Завершение игры
 ![image](https://user-images.githubusercontent.com/104833734/175773203-1607e0cf-4085-4f5a-a835-1ad4c05489b9.png)
 =======
-<<<<<<< HEAD
-# ekzamen
-=======
-# ekzamen
->>>>>>> e22a63eaa3f497fc5d1b505b971df329acb4bd8f
->>>>>>> phase2
